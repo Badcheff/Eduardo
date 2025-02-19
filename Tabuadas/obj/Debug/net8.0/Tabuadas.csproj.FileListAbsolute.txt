@@ -1,0 +1,14 @@
+C:\Users\edubi\Desktop\MasterD\Tabuadas\bin\Debug\net8.0\Tabuadas.exe
+C:\Users\edubi\Desktop\MasterD\Tabuadas\bin\Debug\net8.0\Tabuadas.deps.json
+C:\Users\edubi\Desktop\MasterD\Tabuadas\bin\Debug\net8.0\Tabuadas.runtimeconfig.json
+C:\Users\edubi\Desktop\MasterD\Tabuadas\bin\Debug\net8.0\Tabuadas.dll
+C:\Users\edubi\Desktop\MasterD\Tabuadas\bin\Debug\net8.0\Tabuadas.pdb
+C:\Users\edubi\Desktop\MasterD\Tabuadas\obj\Debug\net8.0\Tabuadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edubi\Desktop\MasterD\Tabuadas\obj\Debug\net8.0\Tabuadas.AssemblyInfoInputs.cache
+C:\Users\edubi\Desktop\MasterD\Tabuadas\obj\Debug\net8.0\Tabuadas.AssemblyInfo.cs
+C:\Users\edubi\Desktop\MasterD\Tabuadas\obj\Debug\net8.0\Tabuadas.csproj.CoreCompileInputs.cache
+C:\Users\edubi\Desktop\MasterD\Tabuadas\obj\Debug\net8.0\Tabuadas.dll
+C:\Users\edubi\Desktop\MasterD\Tabuadas\obj\Debug\net8.0\refint\Tabuadas.dll
+C:\Users\edubi\Desktop\MasterD\Tabuadas\obj\Debug\net8.0\Tabuadas.pdb
+C:\Users\edubi\Desktop\MasterD\Tabuadas\obj\Debug\net8.0\Tabuadas.genruntimeconfig.cache
+C:\Users\edubi\Desktop\MasterD\Tabuadas\obj\Debug\net8.0\ref\Tabuadas.dll
